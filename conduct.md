@@ -1,8 +1,8 @@
 # Code Of Conduct
 
-# Principles (boring stuff :p )
-   > Single Responsibility Principles
-   > 3 second reading of method
+## Principles (boring stuff :p )
+   > * Single Responsibility Principles 
+   > * 3 second reading of method
 
 
 ## Naming: 
@@ -56,3 +56,5 @@
    * Configuration should be in dedicated class
    * Load Configuration through constructor for easy unit testability
  
+## Method Arguments
+   * 1/2 is good, 3 is OK, >3 is not allowed
